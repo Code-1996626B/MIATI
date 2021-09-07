@@ -14,4 +14,4 @@ Recommendation System
 
 - Install Faiss-GPU based on the instructions here: https://github.com/facebookresearch/faiss/blob/master/INSTALL.md
 
-- Clone this repo `git clone https://github.com/YunFeiBi/MIATI`.
+- Clone this repo `git clone https://github.com/Sequential-Recommendation/MIATI`.
