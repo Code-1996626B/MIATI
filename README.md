@@ -1,5 +1,5 @@
 # MIATI
-Recommendation System
+Paper: MIATI: Multi Interests And Temporal Information for Commodity Recommendation
 ## Prerequisites
 
 - Python 3
@@ -37,5 +37,7 @@ When training a ComiRec-DR model, you should set `--learning_rate 0.001`.
 
 If you want to train models on your own dataset, you should prepare the following three(or four) files:
 - train/valid/test file: Each line represents an interaction, which contains three numbers `<user_id>,<item_id>,<time_stamp>`.
-- category file (optional): Each line contains two numbers `<item_id>,<cate_id>` used for computing diversity..
+- category file (optional): Each line contains two numbers `<item_id>,<cate_id>` used for computing diversity.
+
+If you have ANY difficulties to get things working in the above steps, feel free to open an issue. You can expect a reply within 24 hours.
 
