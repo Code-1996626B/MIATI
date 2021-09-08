@@ -19,7 +19,7 @@ Recommendation System
 ### Dataset
 
 - Original links of datasets are:
-  - JD: https://github.com/alicogintel/SDM
+  - JD: https://drive.google.com/file/d/19PemKrhA8j-RZj0i20_j4ERcnzaxl5JZ/view
   - taobao: https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1
   - amazon: http://jmcauley.ucsd.edu/data/amazon/index.html
 
