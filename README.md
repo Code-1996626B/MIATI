@@ -15,3 +15,11 @@ Recommendation System
 - Install Faiss-GPU based on the instructions here: https://github.com/facebookresearch/faiss/blob/master/INSTALL.md
 
 - Clone this repo `git clone https://github.com/Sequential-Recommendation/MIATI`.
+
+### Dataset
+
+- Original links of datasets are:
+  - JD: https://github.com/alicogintel/SDM
+  - taobao: https://tianchi.aliyun.com/dataset/dataDetail?dataId=649&userId=1
+  - amazon: http://jmcauley.ucsd.edu/data/amazon/index.html
+
